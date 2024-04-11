@@ -186,7 +186,7 @@ img {
   background-position: center;
   background-size: cover;
   margin: 0 auto;
-  max-width: 1440px
+ 
 }
 
 .hero-title {
@@ -312,6 +312,7 @@ img {
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
+  margin-bottom: 8px;;
 }
 
 .our-team-img {}
@@ -339,6 +340,7 @@ img {
 .ourteam-icons-item {
   width: 40px;
   height: 40px;
+
 }
 
 .ourteam-icon-link {
@@ -501,14 +503,12 @@ img {
   letter-spacing: 0.02em;
   color: #f4f4fd;
   max-width: 264px;
-  padding-top: 16px;
 }
 
 .socialmedia {
-  display: flex;
-
 
 }
+
 
 .footer-social-parag {
   font-weight: 500;
